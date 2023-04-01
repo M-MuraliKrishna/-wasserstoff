@@ -31,7 +31,7 @@ To Visit App:
 `localhost:3000/`  
 
 Github Link:
-`https://github.com/M-MuraliKrishna/Wasserstoff.gitgit`
+`https://github.com/M-MuraliKrishna/Wasserstoff.git`
 
 
 ## Packages installed
