@@ -94,9 +94,6 @@ to host this project we are using netlify.
 https://wasserstoff-assignment.netlify.app/
 
 
-## Project Explanation Video link
-
-
 
 😊👍
 
