@@ -31,7 +31,7 @@ To Visit App:
 `localhost:3000/`  
 
 Github Link:
-`https://github.com/Deepakgauttam/wasserstoff_assignment`
+`https://github.com/M-MuraliKrishna/Wasserstoff.gitgit`
 
 
 ## Packages installed
@@ -91,7 +91,7 @@ to host this project we are using netlify.
 
 
 ### Application Hosted Link
-<!-- https://wass-assign.netlify.app/ -->
+https://wasserstoff-assignment.netlify.app/
 
 
 ## Project Explanation Video link
